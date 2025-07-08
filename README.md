@@ -41,7 +41,7 @@ Each folder in this repo represents a major DSA topic. Inside each folder, you'l
 
 
 - Language: **Java**
-- IDE: IntelliJ IDEA
+- IDE: **IntelliJ IDEA**
 - Version Control: **Git + GitHub**
 
 
