@@ -30,7 +30,7 @@ Each folder in this repo represents a major DSA topic. Inside each folder, you'l
 - ✅ Stacks (Standard & Recursion-based problems)
 - ✅ Linked Lists (Singly, Doubly, Circular, Advanced)
 - ✅ Recursion (Basic to Deep Recursion Stack Flow)
-- ✅ Trees (Traversals, Views, Height, BST)
+- ✅ Trees (Traversals, Views, Height, BST) -- Ongoing
 - 🔄 Graphs (Coming Next)
 - 🔄 Searching and Sorting
 - 🔄 HashMaps, Backtracking, and DP (Coming Later)
